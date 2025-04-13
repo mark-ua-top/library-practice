@@ -2,11 +2,11 @@
   "name": "library-practice",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/mark-ua-top/library-practice",
+  "homepage": "https://mark-ua-top.github.io/library-practice/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
-    "build": "parcel build src/index.html",
+    "build": "parcel build src/index.html --no-cache",
     "deploy": "gh-pages -d dist --branch gh-pages",
     "predeploy": "npm run build"
   },
