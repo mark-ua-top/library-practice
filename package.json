@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarkUA-top/library-practice.git"
+    "url": "git+https://github.com/mark-ua-top/library-practice.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MarkUA-top/library-practice/issues"
+    "url": "https://github.com/mark-ua-top/library-practice/issues"
   },
   "homepage": "https://github.com/mark-ua-top/library-practice",
   "dependencies": {
