@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["library-practice.51892f3e.css","dist/src/style.css"],"sourcesContent":["h1 {\n  color: #ff69b4;\n  font-family: cursive;\n}\n/*# sourceMappingURL=library-practice.51892f3e.css.map */\n","h1 {\n  color: hotpink;\n  font-family: cursive;\n}"],"names":[],"version":3,"file":"library-practice.51892f3e.css.map"}
