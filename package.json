@@ -9,9 +9,8 @@
     "posthtml-include": "^2.0.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
-    "build": "parcel build src/index.html --no-cache",
+    "build": "parcel build src/index.html --no-cache --public-url './'",
     "deploy": "gh-pages -d dist --branch gh-pages",
     "predeploy": "npm run build"
   },
